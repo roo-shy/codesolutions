@@ -18,6 +18,7 @@ convertToF(30);
 
 ## After:
 
+```
 function convertToF(celsius) {
   var fahrenheit = (celsius * (9/5) + 32);
   
@@ -30,3 +31,4 @@ function convertToF(celsius) {
 
 // Change the inputs below to test your code
 convertToF(30);
+```
