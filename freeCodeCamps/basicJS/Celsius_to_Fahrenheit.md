@@ -28,6 +28,7 @@ function convertToF(celsius) {
   } else {
     return 'fahrenheit is not defined';
   }
+}
 
 // Change the inputs below to test your code
 convertToF(30);
